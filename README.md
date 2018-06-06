@@ -1,0 +1,1 @@
+# furuhashilab_logo
