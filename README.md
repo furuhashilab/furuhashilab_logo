@@ -3,8 +3,12 @@
 * 60x60px
 ![furuhashilab_logo_qiita_60x60](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h60_w60.png?raw=true)
 
-* 320x320px
-![furuhashilab_logo_qiita_320x320](https://user-images.githubusercontent.com/416977/70410421-60cfcd00-1a92-11ea-9a4d-0f8ef896e9d1.jpg)
+* 600x532px
+![furuhashilab_logo_qiita_320x320](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h532_w600.png?raw=true)
+
+
+* 689x904px
+![furuhashilab_logo_qiita_320x320](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h689_w904.png?raw=true)
 
 
 * おまけ Octcat
