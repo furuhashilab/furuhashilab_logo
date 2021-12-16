@@ -1,5 +1,7 @@
 # furuhashilab_logo
 
+<img src="https://github.com/furuhashilab/furuhashilab_logo/blob/master/FuruhashiLab_logo.png?raw=true" width="800" />
+
 * 60x60px
 ![furuhashilab_logo_qiita_60x60](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h60_w60.png?raw=true)
 
