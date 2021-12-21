@@ -1,5 +1,10 @@
 # furuhashilab_logo
 
+## Fonts
+* "**Furuhashi Lab.**" : Futura : Medium
+* "**Aoyama Gakuin Univ.**" : Verdana : Regular
+
+
 <img src="https://github.com/furuhashilab/furuhashilab_logo/blob/master/FuruhashiLab_logo.png?raw=true" width="800" />
 
 * 60x60px
