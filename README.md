@@ -11,6 +11,8 @@
 ![furuhashilab_logo_qiita_60x60](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h60_w60.png?raw=true)
 
 ---
+* 背景透明
+![Image](https://github.com/user-attachments/assets/4a2fb8a4-64d3-4784-8928-a80a57f56f12)
 
 * 600x532px
 ![furuhashilab_logo_qiita_320x320](https://github.com/furuhashilab/furuhashilab_logo/blob/master/furuhashilab_logo_h532_w600.png?raw=true)
